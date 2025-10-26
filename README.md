@@ -36,7 +36,7 @@ El objetivo fue **filtrar y combinar la información más relevante** de cada va
 ---
 
 ## 🏁 Resultados
-Tras el análisis, se determinó **la provincia más adecuada para el proyecto Vértigo**, considerando los factores económicos, demográficos y de competencia.
+Tras el análisis, se determinó **la provincia más adecuada para el proyecto Vértigo** fue **Valencia**, considerando los factores económicos, demográficos y de competencia.
 
 ---
 
@@ -54,10 +54,6 @@ Tras el análisis, se determinó **la provincia más adecuada para el proyecto V
 Estudiante del Bootcamp de Análisis de Datos en [Ironhack](https://www.ironhack.com)
 
 ---
-
-## 📬 Contacto
-📧 [Tu email o LinkedIn, si quieres agregarlo]  
-💼 [Enlace a tu portfolio o GitHub, opcional]
 
 ---
 
